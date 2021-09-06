@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=PropertyViewer
+comment0.text=\r\n\ This\ project\ implements\ a\ simple\ application.\ Properties\ from\ a\ fixed\r\n\ file\ can\ be\ displayed.\ \r\n\ \r\n\ \r\n\ @author\ Michael\ K\u00F6lling\ and\ Josh\ Murphy\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=PropertyViewer()
+comment1.text=\r\n\ Create\ a\ PropertyViewer\ and\ display\ its\ GUI\ on\ screen.\r\n
+comment2.params=
+comment2.target=void\ nextProperty()
+comment2.text=\r\n\ This\ method\ displays\ the\ next\ property,\ its\ ID\ and\ whether\ it\ is\ a\ favourite\ or\ not\ in\ the\ GUI\r\n
+comment3.params=
+comment3.target=void\ previousProperty()
+comment3.text=\r\n\ This\ method\ displays\ the\ previous\ property,\ its\ ID\ and\ whether\ it\ is\ a\ favourite\ or\ not\ in\ the\ GUI\r\n
+comment4.params=
+comment4.target=void\ toggleFavourite()
+comment4.text=\r\n\ When\ the\ toggle\ favourite\ button\ is\ clicked\ on\ the\ GUI,\ this\ stores\ the\ current\ property\ displayed\ on\ the\ GUI\ as\ a\ favourite\ property\r\n
+comment5.params=
+comment5.target=void\ viewMap()
+comment5.text=\r\n\ This\ method\ opens\ the\ system's\ default\ internet\ browser\r\n\ The\ Google\ maps\ page\ should\ show\ the\ current\ properties\ location\ on\ the\ map.\r\n
+comment6.params=
+comment6.target=int\ getNumberOfPropertiesViewed()
+comment6.text=\r\n\ This\ method\ returns\ the\ number\ of\ properties\ viewed\ by\ the\ user\r\n
+comment7.params=
+comment7.target=int\ getAveragePropertyPrice()
+comment7.text=\r\n\ This\ method\ returns\ the\ average\ price\ of\ all\ of\ the\ properties\ viewed\ by\ the\ user\ \r\n
+numComments=8
